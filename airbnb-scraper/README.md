@@ -44,7 +44,7 @@ cp deepbnb/settings.py.dist deepbnb/settings.py
 ## Configuration
 
 Edit `deepbnb/settings.py` for settings. I've created some custom settings which are
-documented [below](https://github.com/flurryunicorn/airbnb-scraper#settings). The rest are documented
+documented. The rest are documented
 in https://docs.scrapy.org/en/latest/topics/settings.html.
 
 ## Example Usage
