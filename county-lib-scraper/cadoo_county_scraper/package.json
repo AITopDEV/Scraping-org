@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "dotenv": "^16.3.1",
+    "papaparse": "^5.4.1",
+    "path": "^0.12.7",
+    "puppeteer": "^21.4.1",
+    "puppeteer-extra": "^3.3.6"
+  }
+}

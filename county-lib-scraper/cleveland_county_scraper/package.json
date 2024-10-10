@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "moment": "^2.29.4",
+    "puppeteer": "^21.5.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "puppeteer-utilz": "^4.0.8",
+    "regenerator-runtime": "^0.14.0"
+  }
+}

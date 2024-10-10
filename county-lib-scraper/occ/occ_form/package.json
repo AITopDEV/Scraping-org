@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "csv-parse": "^5.5.3",
+    "csv-writer": "^1.6.0",
+    "moment": "^2.30.1",
+    "puppeteer": "^22.0.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "puppeteer-utilz": "^4.0.8",
+    "regenerator-runtime": "^0.14.1"
+  }
+}

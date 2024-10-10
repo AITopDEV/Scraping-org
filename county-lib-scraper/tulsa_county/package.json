@@ -1,0 +1,21 @@
+{
+  "name": "tulsa_county_scraper",
+  "version": "1.0.0",
+  "description": "scraping tulsa county clerk information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.4.1",
+    "moment": "^2.30.1",
+    "puppeteer": "^21.9.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "puppeteer-utilz": "^4.0.8",
+    "regenerator-runtime": "^0.14.1"
+  }
+}
